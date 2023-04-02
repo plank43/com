@@ -122,5 +122,6 @@ private Object getObjectFromString(String value) {
     }
 
 }
+public static void main(String[] args) {}
 
 }
